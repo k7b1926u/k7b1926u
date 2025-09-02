@@ -35,17 +35,16 @@
     </namespaces>
   </siteinfo>
   <page>
-    <title>User:梵天</title>
-    <ns>2</ns>
+    <title>Item:Q213884280</title>
+    <ns>860</ns>
     <revision>
-      <timestamp>2025-09-02T16:45:35Z</timestamp>
       <contributor>
         <username>梵天</username>
         <id>10</id>
       </contributor>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text xml:space="preserve">This is a test of GitHub commit / MediaWiki import coordination.</text>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text xml:space="preserve">{"type":"item","id":"Q213884280","labels":{"en":{"language":"en","value":"[] schema:version "96"^^xsd:integer ."}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
     </revision>
   </page>
 </mediawiki>
